@@ -1,0 +1,15 @@
+{
+  "name": "kokomade-yonder",
+  "version": "0.1.0",
+  "description": "kokomde-yonder chrome extension.",
+  "main": "none",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oogatta/kokomade-yonder.git"
+  },
+  "author": "oogatta",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.4"
+  }
+}
